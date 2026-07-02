@@ -11,7 +11,7 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que u
 ### 🔎 Onde me encontrar
 
 [![Linkedin Badge](https://img.shields.io/badge/_Patrick_Esquier_Silvy_-b1295b?style=flat-square&labelColor=b1295b&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/patrick-esquier-silvy/)
-[![Mail Badge](https://img.shields.io/badge/_miguelcg958@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:patricksilvy.contato@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/_patricksilvy.contato@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:patricksilvy.contato@gmail.com)
 
 ### 🚀 Linguagens e ferramentas
 
